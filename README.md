@@ -2,9 +2,9 @@
 ## 1.Program
 The function of  `code2graph__v1.py` is to parse the code into a graph. 
 
-The input of this is the code base address: code_path = ''; 
+The input of this is the code base address: `code_path = ''`; 
 
-the output is the graph data storage address: path2 = ''.
+the output is the graph data storage address: `path2 = ''`.
 
 `model.py` is the network of GGNN and Bert
 
