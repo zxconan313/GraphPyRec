@@ -1,5 +1,5 @@
 # GraphPyRec
-This project can target Python implementation code recommendations. The main approach is to achieve complete parsing of contextual semantics by characterizing Python programs as graphs.This README contains two parts, the first part is the main program and how to use the interface; the second part is the description of the relevant data.
+This project can target Python implementation code recommendations. The main approach is to achieve complete parsing of contextual semantics by characterizing Python programs as graphs. This README contains two parts, the first part is the main program and how to use the interface; the second part is the description of the relevant data.
 ## 1.Program
 `code2graph__v1.py` is to parse the code into a graph. 
     The input of this is the code base address: `code_path = ''`.
